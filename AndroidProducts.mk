@@ -13,4 +13,3 @@ COMMON_LUNCH_CHOICES := \
     twrp_m32-user \
     twrp_m32-userdebug \
     twrp_m32-eng
-eng
